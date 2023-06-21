@@ -27,6 +27,13 @@ Save your changes to the Excel workbook.
 
 ## Data Source
 The data used in this sales dashboard is provided in the repository. It includes fictional sales data generated for demonstration purposes.
+There are two Excel files within the repository, each serving a different purpose:
+
+### Raw Uncleaned Sales Dataset: (Store-sales-Dataset)
+This Excel file contains the original, unprocessed sales dataset. It may include data in its raw form, which may contain errors, inconsistencies, or unformatted data.
+
+### Cleaned Dataset, Charts, and Report: (Interactive-Sales-Dashboard) 
+The second Excel file comprises the cleaned version of the sales dataset. It has undergone data cleaning processes such as removing duplicates, correcting errors, standardizing formats, and ensuring data quality. Additionally, this file includes various charts and visualizations derived from the cleaned dataset, along with an entire report summarizing the findings and insights.
 
 ## Contributing
 Contributions to enhance the Interactive Sales Dashboard or add new features are welcome. If you would like to contribute, please follow these steps:
